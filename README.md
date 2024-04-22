@@ -4,13 +4,15 @@ This repository contains a curated list of awesome resources that can help you w
 
 ## Table of Content
 
-- [Awesome-CV ](#awesome-cv-)
-  - [Table of Content](#table-of-content)
-    - [Jekyll](#jekyll)
-    - [LaTeX](#latex)
-    - [Markdown](#markdown)
-    - [TypeScript](#typescript)
-    - [Vue](#vue)
+- [Curriculum Vitae](#curriculum-vitae)
+  - [Jekyll](#jekyll)
+  - [LaTeX](#latex)
+  - [Markdown](#markdown)
+  - [TypeScript](#typescript)
+  - [Vue](#vue)
+- [Contributing](#contributing)
+
+## Curriculum Vitae
 
 ### Jekyll
 
@@ -33,3 +35,7 @@ This repository contains a curated list of awesome resources that can help you w
 ### Vue
 
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple beautiful resumes.
+
+## Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
