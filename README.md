@@ -9,6 +9,7 @@ This repository contains a curated list of awesome resources that can help you w
   - [LaTeX](#latex)
   - [Markdown](#markdown)
   - [TypeScript](#typescript)
+  - [Typst](#typst)
   - [Vue](#vue)
 - [Contributing](#contributing)
 
@@ -31,6 +32,10 @@ This repository contains a curated list of awesome resources that can help you w
 ### TypeScript
 
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page.
+
+### Typst
+
+- [DeveloperPaul123/modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template
 
 ### Vue
 
