@@ -7,6 +7,7 @@ FYI, this list is in alphabetical order.
 ## Table of Content
 
 [Curriculum Vitae](#curriculum-vitae)
+- [Drag-and-drop](#drag-and-drop)
 - [Jekyll](#jekyll)
 - [LaTeX](#latex)
 - [Markdown](#markdown)
@@ -17,6 +18,10 @@ FYI, this list is in alphabetical order.
 [Contributing](#contributing)
 
 ## Curriculum Vitae
+
+### Drag-and-drop
+
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.
 
 ### Jekyll
 
