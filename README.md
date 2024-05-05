@@ -6,14 +6,15 @@ FYI, this list is in alphabetical order.
 
 ## Table of Content
 
-- [Curriculum Vitae](#curriculum-vitae)
-  - [Jekyll](#jekyll)
-  - [LaTeX](#latex)
-  - [Markdown](#markdown)
-  - [TypeScript](#typescript)
-  - [Typst](#typst)
-  - [Vue](#vue)
-- [Contributing](#contributing)
+[Curriculum Vitae](#curriculum-vitae)
+- [Jekyll](#jekyll)
+- [LaTeX](#latex)
+- [Markdown](#markdown)
+- [TypeScript](#typescript)
+- [Typst](#typst)
+- [Vue](#vue)
+
+[Contributing](#contributing)
 
 ## Curriculum Vitae
 
