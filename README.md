@@ -31,6 +31,7 @@ FYI, this list is in alphabetical order.
 
 - [Friggeri CV Template](https://www.overleaf.com/latex/templates/friggeri-cv-template/hmnchbfmjgqh) - A template suitable for anyone, that needs to be compiled with XeLaTeX.
 - [latexcv](https://github.com/jankapunkt/latexcv) - A collection of CV and resume templates written in LaTeX.
+- [resume](https://github.com/avinal/resume) - Compact and Minimal LaTeX Resume Template
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - A template for your outstanding job application.
 
 ### Markdown
