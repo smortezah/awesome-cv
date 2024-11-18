@@ -26,6 +26,7 @@ FYI, this list is in alphabetical order.
 ### Jekyll
 
 - [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
+- [resume-template](https://github.com/jglovier/resume-template) - A simple Jekyll + GitHub Pages powered resume template.
 
 ### LaTeX
 
