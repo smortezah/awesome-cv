@@ -48,7 +48,7 @@ FYI, this list is in alphabetical order.
 
 - [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) - A minimalistic CV comprising essentials only.
 - [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application.
-- [cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template.
+- [imprecv](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template.
 - [modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template.
 - [modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - A modern typst resume template.
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv.
