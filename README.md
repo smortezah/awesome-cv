@@ -1,4 +1,5 @@
-# Awesome-CV [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-CV
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository contains a curated list of awesome resources that can help you with creating and customizing your Curriculum Vitae (CV).
 
