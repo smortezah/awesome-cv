@@ -46,15 +46,25 @@ FYI, this list is in alphabetical order.
 
 ### Typst
 
+- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template.
+- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - Attractive Typst Resume Template.
 - [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) - A minimalistic CV comprising essentials only.
+- [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
 - [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application.
+- [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
+- [chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template.
+- [cv](https://github.com/daxartio/cv) - Programmatic generation of high-quality CVs.
 - [imprecv](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template.
 - [modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template.
 - [modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - A modern typst resume template.
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv.
+- [NNJR](https://github.com/tzx/NNJR) - NNJR is Not Jake's Resume. However, it is similar and is written in Typst!
 - [resume](https://github.com/hexWars/resume) - A pretty resume template.
 - [resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst.
+- [simplecv](https://github.com/LaurenzV/simplecv) - A simple and elegant CV template.
 - [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV.
+- [typst-blue-header-cv](https://github.com/cammellos/typst-blue-header-cv) - A sleek and professional CV template.
+- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - A simple, elegant, academic style CV template.
 - [Typst-CV-Resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template inspired by Deedy-Resume.
 - [typst-cv-template](https://github.com/JCGoran/typst-cv-template) - Template for a CV using typst.
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A Typst Resume/CV template, inspired by Alessandro Plasmati's Graduate CV LaTex template.
