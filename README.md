@@ -31,10 +31,11 @@ FYI, this list is in alphabetical order.
 
 ### LaTeX
 
+- [avinal/resume](https://github.com/avinal/resume) - Compact and Minimal LaTeX Resume Template
 - [Friggeri CV Template](https://www.overleaf.com/latex/templates/friggeri-cv-template/hmnchbfmjgqh) - A template suitable for anyone, that needs to be compiled with XeLaTeX.
 - [latexcv](https://github.com/jankapunkt/latexcv) - A collection of CV and resume templates written in LaTeX.
-- [avinal/resume](https://github.com/avinal/resume) - Compact and Minimal LaTeX Resume Template
 - [liweitianux/resume](https://github.com/liweitianux/resume) - A resume in LaTeX (template suited for new graduates)
+- [moderncv](https://github.com/moderncv/moderncv) - A modern curriculum vitae class for LaTeX.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - A template for your outstanding job application.
 
 ### Markdown
