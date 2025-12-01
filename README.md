@@ -63,7 +63,6 @@ FYI, this list is in alphabetical order.
 - [NNJR](https://github.com/tzx/NNJR) - NNJR is Not Jake's Resume. However, it is similar and is written in Typst!
 - [resume](https://github.com/hexWars/resume) - A pretty resume template.
 - [resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst.
-- [simplecv](https://github.com/LaurenzV/simplecv) - A simple and elegant CV template.
 - [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV.
 - [typst-blue-header-cv](https://github.com/cammellos/typst-blue-header-cv) - A sleek and professional CV template.
 - [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - A simple, elegant, academic style CV template.
