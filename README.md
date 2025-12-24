@@ -61,6 +61,7 @@ FYI, this list is in alphabetical order.
 - [modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - A modern typst resume template.
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv.
 - [NNJR](https://github.com/tzx/NNJR) - NNJR is Not Jake's Resume. However, it is similar and is written in Typst!
+- [rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers
 - [resume](https://github.com/hexWars/resume) - A pretty resume template.
 - [resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst.
 - [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV.
