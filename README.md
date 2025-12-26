@@ -9,12 +9,11 @@ FYI, this list is in alphabetical order.
 
 [Curriculum Vitae](#curriculum-vitae)
 - [Drag-and-drop](#drag-and-drop)
+- [JavaScript/TypeScript](#javascripttypescript)
 - [Jekyll](#jekyll)
 - [LaTeX](#latex)
 - [Markdown](#markdown)
-- [TypeScript](#typescript)
 - [Typst](#typst)
-- [Vue](#vue)
 
 [Contributing](#contributing)
 
@@ -23,6 +22,12 @@ FYI, this list is in alphabetical order.
 ### Drag-and-drop
 
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.
+
+### JavaScript/TypeScript
+
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple beautiful resumes.
+- [cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page.
+- [resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 
 ### Jekyll
 
@@ -41,10 +46,6 @@ FYI, this list is in alphabetical order.
 ### Markdown
 
 - [nimo-markdown-cv](https://github.com/wodeni/nimo-markdown-cv) - Maintain your CV in Markdown.
-
-### TypeScript
-
-- [cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page.
 
 ### Typst
 
@@ -75,10 +76,6 @@ FYI, this list is in alphabetical order.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - typst-resume-template.
 - [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - Twenty Seconds CV/Resume.
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template.
-
-### Vue
-
-- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple beautiful resumes.
 
 ## Contributing
 
