@@ -33,6 +33,7 @@ This repository contains a curated list of awesome resources that can help you w
 
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple beautiful resumes.
 - [cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page.
+- [OhMyDoc](https://github.com/kimwwk/ohmydoc-using-claude-code-agent) - Paste your resume, pick a style, get a formatted PDF. No signup, no field-by-field entry.
 - [resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 
 ### Jekyll
