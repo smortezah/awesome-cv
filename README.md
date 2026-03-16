@@ -10,7 +10,6 @@ This repository contains a curated list of awesome resources that can help you w
 
 [Curriculum Vitae](#curriculum-vitae)
 - [My contribution](#my-contribution)
-- [Auto Page-fitting](#auto-page-fitting)
 - [Drag-and-drop](#drag-and-drop)
 - [JavaScript/TypeScript](#javascripttypescript)
 - [Jekyll](#jekyll)
@@ -25,10 +24,6 @@ This repository contains a curated list of awesome resources that can help you w
 ### My contribution
 
 - [NeatCV](https://github.com/smortezah/neatcv) - A clean, single-file, ATS-friendly CV template built with Typst.
-
-### Auto Page-fitting
-
-- [Resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. LaTeX-quality output with Markdown simplicity.
 
 ### Drag-and-drop
 
@@ -57,6 +52,7 @@ This repository contains a curated list of awesome resources that can help you w
 ### Markdown
 
 - [nimo-markdown-cv](https://github.com/wodeni/nimo-markdown-cv) - Maintain your CV in Markdown.
+- [Resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. LaTeX-quality output with Markdown simplicity.
 
 ### Typst
 
