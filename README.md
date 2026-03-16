@@ -28,6 +28,7 @@ This repository contains a curated list of awesome resources that can help you w
 ### Drag-and-drop
 
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.
+- [Resumemind](https://resumemind.com) - A free online resume builder to create professional PDFs.
 
 ### JavaScript/TypeScript
 
