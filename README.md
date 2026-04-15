@@ -45,6 +45,7 @@ Resources in this list should meet most of the following criteria:
 - Have a clear license or usage model.
 - Add something distinct in workflow, design, audience, or output quality.
 - Be reasonably accessible to contributors and users evaluating options.
+- Be reachable; dead or unresolvable links may be removed during routine maintenance.
 
 ## Maintainer note
 
