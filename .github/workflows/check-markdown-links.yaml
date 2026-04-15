@@ -1,13 +1,19 @@
 name: Check Markdown links
 
 on:
+  pull_request:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
 
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v6
-    - uses: tcort/github-action-markdown-link-check@v1
+      - uses: actions/checkout@v6
+      - uses: tcort/github-action-markdown-link-check@v1
+        with:
+          config-file: .markdown-link-check.json

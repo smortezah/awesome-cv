@@ -1,91 +1,117 @@
-# Awesome-CV
+# Awesome CV
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository contains a curated list of awesome resources that can help you with creating and customizing your Curriculum Vitae (CV).
+This repository contains a curated list of high-quality resources for creating, customizing, and publishing a Curriculum Vitae (CV) or resume.
+
+The goal is to help job seekers quickly compare hosted builders, static templates, and code-first generators across different ecosystems.
 
 > [!TIP]
-> This list is in alphabetical order.
+> Resources are grouped by ecosystem and listed alphabetically within each category.
 
-## Table of Content
+## Table of Contents
 
-[Curriculum Vitae](#curriculum-vitae)
-- [My contribution](#my-contribution)
-- [Drag-and-drop](#drag-and-drop)
-- [JavaScript/TypeScript](#javascripttypescript)
-- [Jekyll](#jekyll)
-- [LaTeX](#latex)
-- [Markdown](#markdown)
-- [Typst](#typst)
+- [How to use this list](#how-to-use-this-list)
+- [Selection criteria](#selection-criteria)
+- [Maintainer note](#maintainer-note)
+- [Curriculum Vitae resources](#curriculum-vitae-resources)
+  - [Drag-and-drop](#drag-and-drop)
+  - [JavaScript/TypeScript](#javascripttypescript)
+  - [Jekyll](#jekyll)
+  - [LaTeX](#latex)
+  - [Markdown](#markdown)
+  - [Typst](#typst)
+- [Contributing](#contributing)
 
-[Contributing](#contributing)
+## How to use this list
 
-## Curriculum Vitae
+- Start with **Drag-and-drop** if you want a guided builder and fast PDF export.
+- Start with **JavaScript/TypeScript**, **Jekyll**, **LaTeX**, **Markdown**, or **Typst** if you prefer version-controlled, code-first customization.
+- Use the tags in each description to quickly compare tools:
+  - **builder**: guided resume editor or app.
+  - **template**: starter layout to customize.
+  - **generator** or **renderer**: source-driven document generation.
+  - **hosted**: available as a web service.
+  - **self-hosted** or **static**: run locally or publish from source files.
+  - **free** or **commercial**: primary pricing model.
+  - **academic**, **ATS-friendly**, or **general-purpose**: common use case.
 
-### My contribution
+## Selection criteria
 
-- [NeatCV](https://github.com/smortezah/neatcv) - A clean, single-file, ATS-friendly CV template built with Typst.
+Resources in this list should meet most of the following criteria:
+
+- Be clearly relevant to CV or resume creation.
+- Offer a useful level of polish, documentation, or customization.
+- Be maintained or still practically usable for new users.
+- Have a clear license or usage model.
+- Add something distinct in workflow, design, audience, or output quality.
+- Be reasonably accessible to contributors and users evaluating options.
+
+## Maintainer note
+
+I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in the Typst section and should meet the same inclusion criteria as every other entry.
+
+## Curriculum Vitae resources
 
 ### Drag-and-drop
 
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.
-- [Resumemind](https://resumemind.com) - A free online resume builder to create professional PDFs.
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export. *(Tags: builder, hosted/self-hosted, free, general-purpose.)*
 
 ### JavaScript/TypeScript
 
-- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple beautiful resumes.
-- [cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page.
-- [OhMyDoc](https://github.com/kimwwk/ohmydoc-using-claude-code-agent) - Paste your resume, pick a style, get a formatted PDF. No signup, no field-by-field entry.
-- [resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple resume variants from a code-first workflow. *(Tags: generator, static, free, general-purpose.)*
+- [cv](https://github.com/BartoszJarocki/cv) - Print-friendly minimalist CV site for developers. *(Tags: template, static, free, general-purpose.)*
+- [OhMyDoc](https://github.com/kimwwk/ohmydoc-using-claude-code-agent) - Paste your resume, pick a style, and export a formatted PDF without field-by-field editing. *(Tags: builder, hosted, free, general-purpose.)*
+- [resume-builder](https://github.com/sadanandpai/resume-builder) - Single-page resume builder with a straightforward editing flow. *(Tags: builder, hosted, free, general-purpose.)*
 
 ### Jekyll
 
-- [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
-- [resume-template](https://github.com/jglovier/resume-template) - A simple Jekyll + GitHub Pages powered resume template.
+- [online-cv](https://github.com/sharu725/online-cv) - Minimal Jekyll theme for publishing your resume on GitHub Pages. *(Tags: theme, static, free, general-purpose.)*
+- [resume-template](https://github.com/jglovier/resume-template) - Simple Jekyll and GitHub Pages powered resume template. *(Tags: template, static, free, general-purpose.)*
 
 ### LaTeX
 
-- [avinal/resume](https://github.com/avinal/resume) - Compact and Minimal LaTeX Resume Template
-- [Friggeri CV Template](https://www.overleaf.com/latex/templates/friggeri-cv-template/hmnchbfmjgqh) - A template suitable for anyone, that needs to be compiled with XeLaTeX.
-- [latexcv](https://github.com/jankapunkt/latexcv) - A collection of CV and resume templates written in LaTeX.
-- [liweitianux/resume](https://github.com/liweitianux/resume) - A resume in LaTeX (template suited for new graduates)
-- [moderncv](https://github.com/moderncv/moderncv) - A modern curriculum vitae class for LaTeX.
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - A template for your outstanding job application.
+- [avinal/resume](https://github.com/avinal/resume) - Compact and minimal LaTeX resume template. *(Tags: template, static, free, general-purpose.)*
+- [Friggeri CV Template](https://github.com/afriggeri/cv) - Well-known LaTeX CV template with a strong visual layout. *(Tags: template, static, free, general-purpose.)*
+- [latexcv](https://github.com/jankapunkt/latexcv) - Collection of LaTeX CV and resume templates. *(Tags: templates, static, free, general-purpose.)*
+- [liweitianux/resume](https://github.com/liweitianux/resume) - LaTeX resume template suited to students and new graduates. *(Tags: template, static, free, general-purpose.)*
+- [moderncv](https://github.com/moderncv/moderncv) - Modern curriculum vitae class for LaTeX. *(Tags: package, static, free, general-purpose.)*
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - Popular LaTeX template for polished job applications. *(Tags: template, static, free, general-purpose.)*
 
 ### Markdown
 
-- [nimo-markdown-cv](https://github.com/wodeni/nimo-markdown-cv) - Maintain your CV in Markdown.
-- [Resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. LaTeX-quality output with Markdown simplicity.
+- [nimo-markdown-cv](https://github.com/wodeni/nimo-markdown-cv) - Maintain your CV in Markdown and render it from source. *(Tags: template, static, free, general-purpose.)*
+- [Resumx](https://github.com/resumx/resumx) - Markdown resume renderer with automatic page fitting and print-focused output. *(Tags: renderer, static, free, general-purpose.)*
 
 ### Typst
 
-- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template.
-- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - Attractive Typst Resume Template.
-- [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) - A minimalistic CV comprising essentials only.
-- [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
-- [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application.
-- [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
-- [chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template.
-- [cv](https://github.com/daxartio/cv) - Programmatic generation of high-quality CVs.
-- [imprecv](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template.
-- [modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template.
-- [modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - A modern typst resume template.
-- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A typst template inspired by LaTeX moderncv.
-- [NNJR](https://github.com/tzx/NNJR) - NNJR is Not Jake's Resume. However, it is similar and is written in Typst!
-- [rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers
-- [resume](https://github.com/hexWars/resume) - A pretty resume template.
-- [resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst.
-- [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV.
-- [typst-blue-header-cv](https://github.com/cammellos/typst-blue-header-cv) - A sleek and professional CV template.
-- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - A simple, elegant, academic style CV template.
-- [Typst-CV-Resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template inspired by Deedy-Resume.
-- [typst-cv-template](https://github.com/JCGoran/typst-cv-template) - Template for a CV using typst.
-- [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A Resume/CV template, inspired by Alessandro Plasmati's Graduate CV LaTex template.
-- [typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - A set of templates to produce modern, minimal and elegant CVs and cover letters.
-- [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - Pretty resume template.
-- [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - typst-resume-template.
-- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - Twenty Seconds CV/Resume.
-- [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template.
+- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - Simple Typst CV template with clean defaults. *(Tags: template, static, free, general-purpose.)*
+- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - Attractive Typst resume template for polished personal resumes. *(Tags: template, static, free, general-purpose.)*
+- [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) - Minimal Typst CV focused on essentials. *(Tags: template, static, free, general-purpose.)*
+- [billryan-typst](https://github.com/gvariable/billryan-typst) - Minimalist Typst resume inspired by Billryan Resume. *(Tags: template, static, free, general-purpose.)*
+- [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Typst CV template for polished job applications. *(Tags: template, static, free, general-purpose.)*
+- [chicv](https://github.com/skyzh/chicv) - Minimal and highly customizable Typst CV template. *(Tags: template, static, free, general-purpose.)*
+- [cv](https://github.com/daxartio/cv) - Programmatic generation of high-quality CVs with Typst. *(Tags: generator, static, free, general-purpose.)*
+- [imprecv](https://github.com/jskherman/cv.typ) - No-frills Typst curriculum vitae template. *(Tags: template, static, free, general-purpose.)*
+- [modern-cv](https://github.com/DeveloperPaul123/modern-cv) - Modern Typst resume template with polished defaults. *(Tags: template, static, free, general-purpose.)*
+- [modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - Modern Typst resume template. *(Tags: template, static, free, general-purpose.)*
+- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - Typst template inspired by LaTeX moderncv. *(Tags: template, static, free, general-purpose.)*
+- [NeatCV](https://github.com/smortezah/neatcv) - Clean, single-file CV template built with Typst. *(Tags: template, static, free, ATS-friendly, general-purpose.)*
+- [NNJR](https://github.com/tzx/NNJR) - Typst resume template inspired by Jake's Resume. *(Tags: template, static, free, general-purpose.)*
+- [rendercv](https://github.com/rendercv/rendercv) - CV and resume generator aimed at academics and engineers. *(Tags: generator, static, free, academic/general-purpose.)*
+- [resume](https://github.com/hexWars/resume) - Typst resume template with a polished single-column presentation. *(Tags: template, static, free, general-purpose.)*
+- [resume.typ](https://github.com/wusyong/resume.typ) - Resume template for Typst. *(Tags: template, static, free, general-purpose.)*
+- [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst template focused on academic CVs. *(Tags: template, static, free, academic.)*
+- [typst-blue-header-cv](https://github.com/cammellos/typst-blue-header-cv) - Sleek Typst CV template with a strong visual header. *(Tags: template, static, free, general-purpose.)*
+- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - Elegant Typst CV template with an academic style. *(Tags: template, static, free, academic.)*
+- [Typst-CV-Resume](https://github.com/jxpeng98/Typst-CV-Resume) - Typst CV template inspired by Deedy-Resume. *(Tags: template, static, free, general-purpose.)*
+- [typst-cv-template](https://github.com/JCGoran/typst-cv-template) - Template for building a CV with Typst. *(Tags: template, static, free, general-purpose.)*
+- [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - Resume template inspired by Alessandro Plasmati's Graduate CV. *(Tags: template, static, free, general-purpose.)*
+- [typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - Set of Typst templates for modern CVs and cover letters. *(Tags: templates, static, free, general-purpose.)*
+- [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - Typst resume template with a clean sans-serif style. *(Tags: template, static, free, general-purpose.)*
+- [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Typst resume template with a straightforward starting point. *(Tags: template, static, free, general-purpose.)*
+- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - Typst port of the Twenty Seconds CV layout. *(Tags: template, static, free, general-purpose.)*
+- [vercanard](https://github.com/elegaanz/vercanard) - Colorful Typst resume template with a distinctive visual style. *(Tags: template, static, free, general-purpose.)*
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request.
