@@ -71,7 +71,6 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 ### LaTeX
 
 - [avinal/resume](https://github.com/avinal/resume) - Compact and minimal LaTeX resume template. *(Tags: template, static, free, general-purpose.)*
-- [Friggeri CV Template](https://github.com/afriggeri/cv) - Well-known LaTeX CV template with a strong visual layout. *(Tags: template, static, free, general-purpose.)*
 - [latexcv](https://github.com/jankapunkt/latexcv) - Collection of LaTeX CV and resume templates. *(Tags: templates, static, free, general-purpose.)*
 - [liweitianux/resume](https://github.com/liweitianux/resume) - LaTeX resume template suited to students and new graduates. *(Tags: template, static, free, general-purpose.)*
 - [moderncv](https://github.com/moderncv/moderncv) - Modern curriculum vitae class for LaTeX. *(Tags: package, static, free, general-purpose.)*
