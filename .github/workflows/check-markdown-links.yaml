@@ -6,6 +6,7 @@ on:
     branches:
       - main
   schedule:
+    # Run weekly on Mondays at 08:00 UTC to catch stale links outside the PR flow.
     - cron: "0 8 * * 1"
   workflow_dispatch:
 
