@@ -57,6 +57,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [liweitianux/resume](https://github.com/liweitianux/resume) - LaTeX resume template suited to students and new graduates.
 - [moderncv](https://github.com/moderncv/moderncv) - Modern curriculum vitae class for LaTeX.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - Popular LaTeX template for polished job applications.
+- [lampzi](https://lampzi.com) - A no-code LaTeX resume builder that helps users create professional, ATS-friendly resumes using industry-standard templates in minutes.
 
 ### Markdown
 
