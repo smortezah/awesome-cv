@@ -53,6 +53,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 ### LaTeX
 
 - [avinal/resume](https://github.com/avinal/resume) - Compact and minimal LaTeX resume template.
+- [lampzi](https://lampzi.com) - No-code ATS-friendly resume builder.
 - [latexcv](https://github.com/jankapunkt/latexcv) - Collection of LaTeX CV and resume templates.
 - [liweitianux/resume](https://github.com/liweitianux/resume) - LaTeX resume template suited to students and new graduates.
 - [moderncv](https://github.com/moderncv/moderncv) - Modern curriculum vitae class for LaTeX.
