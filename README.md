@@ -36,8 +36,8 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 ### Drag-and-drop
 
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
-- [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description, with an ATS check, cover letters, and application autofill.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
+- [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description, with an ATS check, cover letters, and application autofill.
 
 ### JavaScript/TypeScript
 
