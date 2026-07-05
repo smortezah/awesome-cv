@@ -35,16 +35,16 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 
 ### Drag-and-drop
 
-- [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with instant match score, one-click tailored rewrite, and ATS-friendly PDF export.
+- [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
-- [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description, with an ATS check, cover letters, and application autofill.
+- [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
 
 ### JavaScript/TypeScript
 
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build multiple resume variants from a code-first workflow.
 - [cv](https://github.com/BartoszJarocki/cv) - Print-friendly minimalist CV site for developers.
-- [OhMyDoc](https://github.com/kimwwk/ohmydoc-using-claude-code-agent) - Paste your resume, pick a style, and export a formatted PDF without field-by-field editing.
+- [OhMyDoc](https://github.com/kimwwk/ohmydoc-using-claude-code-agent) - Paste your resume, pick a style, and export a formatted PDF.
 - [resume-builder](https://github.com/sadanandpai/resume-builder) - Single-page resume builder with a straightforward editing flow.
 
 ### Jekyll
