@@ -35,6 +35,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 
 ### Drag-and-drop
 
+- [Resume Roaster](https://resume.roastlabai.com/) - Free AI resume critic with instant ATS keyword gap detection, brutally honest bullet-point feedback, and recruiter-perspective scoring. No account needed for the first roast.
 - [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background, grounded in Gemini.
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
 - [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
