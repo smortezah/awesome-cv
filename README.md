@@ -41,9 +41,9 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
 - [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
-- [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, ATS score checker, and 150+ templates.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume critic with ATS keyword gap detection, honest feedback, and recruiter scoring.
-- [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker (3 checks/day with no account). Also [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) (738 large employers, 704 portal-verified, Workday 37.9%).
+- [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker (3 checks/day with no account).
+- [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, ATS score checker, and 150+ templates.
 
 ### JavaScript/TypeScript
 
