@@ -36,6 +36,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 ### Drag-and-drop
 
 - [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background, grounded in Gemini.
+- [CVDash](https://cvdash.web.app) - Free AI resume builder with real-time ATS scoring, AI bullet-point writer, and recruiter-approved templates. *(Tags: AI, ATS, resume, PDF)*
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
 - [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
