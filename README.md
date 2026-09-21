@@ -39,6 +39,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [CVDash](https://cvdash.web.app) - AI resume builder with real-time ATS scoring, AI bullet-point writer, and recruiter-approved templates.
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
 - [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
+- [Jakes Resume Builder](https://jakesresumebuilder.com/) - Browser-only editor for a Jakes Resume style template with live preview and one-page PDF export. *(Tags: browser-based, privacy, PDF.)*
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
 - [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
