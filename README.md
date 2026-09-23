@@ -46,6 +46,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume critic with ATS keyword gap detection, honest feedback, and recruiter scoring.
 - [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker (3 checks/day with no account).
+- [ResumeForge](https://github.com/magicapple123/ResumeForge) - Local-first AI resume builder and job-application tracker with STAR rewriting, resume diff, and PDF/Word export; all data stays on your machine.
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, ATS score checker, and 150+ templates.
 
 ### JavaScript/TypeScript
