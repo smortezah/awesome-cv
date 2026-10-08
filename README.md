@@ -39,6 +39,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [CandidThread NZ CV Template](https://candidthread.com/resume-templates/nz-cv-template) - CV template and example with a browser preview in the New Zealand A4 format.
 - [CVDash](https://cvdash.web.app) - AI resume builder with real-time ATS scoring, AI bullet-point writer, and recruiter-approved templates.
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
+- [FreeAICV](https://www.freeaicv.me) - 100% free AI resume builder with 30 ATS-friendly templates, Google XYZ bullet optimizer, and instant vector PDF exports without paywalls.
 - [Jakes Resume Builder](https://jakesresumebuilder.com/) - Browser-only editor for a Jakes Resume style template with live preview and one-page PDF export.
 - [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
