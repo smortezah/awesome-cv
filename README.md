@@ -38,8 +38,8 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background, grounded in Gemini.
 - [CandidThread NZ CV Template](https://candidthread.com/resume-templates/nz-cv-template) - CV template and example with a browser preview in the New Zealand A4 format.
 - [CVDash](https://cvdash.web.app) - AI resume builder with real-time ATS scoring, AI bullet-point writer, and recruiter-approved templates.
+- [FreeAICV](https://www.freeaicv.me) - AI resume builder with 30 ATS-friendly templates, Google XYZ bullet optimizer, and instant vector PDF exports.
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
-- [FreeAICV](https://www.freeaicv.me) - 100% free AI resume builder with 30 ATS-friendly templates, Google XYZ bullet optimizer, and instant vector PDF exports without paywalls.
 - [Jakes Resume Builder](https://jakesresumebuilder.com/) - Browser-only editor for a Jakes Resume style template with live preview and one-page PDF export.
 - [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
@@ -47,8 +47,8 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
 - [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume critic with ATS keyword gap detection, honest feedback, and recruiter scoring.
-- [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker (3 checks/day with no account).
-- [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, ATS score checker, and 150+ templates.
+- [ResumeAI](https://withresumeai.com/) - AI resume builder with an ATS checker (3 checks/day with no account).
+- [ResumeOrbitz](https://resumeorbitz.com) - Resume builder with AI-generated content, ATS score checker, and 150+ templates.
 
 ### JavaScript/TypeScript
 
