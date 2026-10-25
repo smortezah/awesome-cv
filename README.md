@@ -1,5 +1,7 @@
 # Awesome CV
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesomFreeAICV
+
+e.re/badge.svg)](https://awesome.re)
 
 This repository contains a curated list of high-quality resources for creating, customizing, and publishing a Curriculum Vitae (CV) or resume.
 
@@ -38,6 +40,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background, grounded in Gemini.
 - [CandidThread NZ CV Template](https://candidthread.com/resume-templates/nz-cv-template) - CV template and example with a browser preview in the New Zealand A4 format.
 - [CVDash](https://cvdash.web.app) - AI resume builder with real-time ATS scoring, AI bullet-point writer, and recruiter-approved templates.
+- [CVPebble](https://cvpebble.com) - Free CV builder that runs entirely in the browser: 37 templates with live preview, no account required.
 - [FreeAICV](https://www.freeaicv.me) - AI resume builder with 30 ATS-friendly templates, Google XYZ bullet optimizer, and instant vector PDF exports.
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
 - [Jakes Resume Builder](https://jakesresumebuilder.com/) - Browser-only editor for a Jakes Resume style template with live preview and one-page PDF export.
