@@ -42,6 +42,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [FrontendAtlas CV Linter](https://frontendatlas.com/tools/cv) - Frontend-focused CV checker with ATS-style scoring, keyword coverage, readability warnings, and prioritized fixes.
 - [Jakes Resume Builder](https://jakesresumebuilder.com/) - Browser-only editor for a Jakes Resume style template with live preview and one-page PDF export.
 - [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher with tailored rewrites and ATS-friendly PDF export.
+- [JobEmerge](https://www.jobemerge.work) - AI resume builder with 19-language translation, ATS-ready document generation, and PDF/DOCX/PNG/Markdown export.
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
 - [Keel](https://github.com/KeelDev-tech/keel) - Open-core, self-hosted, job-application autopilot with honesty gates that refuse to invent qualifications.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
