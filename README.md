@@ -50,7 +50,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume critic with ATS keyword gap detection, honest feedback, and recruiter scoring.
 - [ResumeAI](https://withresumeai.com/) - AI resume builder with an ATS checker (3 checks/day with no account).
 - [ResumeOrbitz](https://resumeorbitz.com) - Resume builder with AI-generated content, ATS score checker, and 150+ templates.
-- [SmartJobTools ATS Resume Checker](https://smartjobtools.blogspot.com/p/resume-analyzer.html) - Free resume checker that scores a PDF or DOCX resume out of 100 against a job description and lists keyword gaps and prioritized fixes, with no sign-up.
+- [SmartJobTools ATS Resume Checker](https://smartjobtools.blogspot.com/p/resume-analyzer.html) - Free resume checker that scores a PDF or DOCX resume out of 100 against a job description and lists keyword gaps and prioritized fixes.
 - [WhizCV](https://whizcv.com) - Freemium CV and cover letter builder in 14 languages with PDF/DOCX export and interview prep.
 
 ### JavaScript/TypeScript
