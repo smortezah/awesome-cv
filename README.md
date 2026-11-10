@@ -53,6 +53,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [ResumeForge](https://github.com/magicapple123/ResumeForge) - Local-first AI resume builder and job-application tracker with STAR rewriting, resume diff, and PDF/Word export.
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with live preview, local drafts, and free PDF or editable Word exports without sign-up.
 - [ResumeOrbitz](https://resumeorbitz.com) - Resume builder with AI-generated content, ATS score checker, and 150+ templates.
+- [SmartJobTools ATS Resume Checker](https://smartjobtools.blogspot.com/p/resume-analyzer.html) - Free resume checker that scores a PDF or DOCX resume out of 100 against a job description and lists keyword gaps and prioritized fixes.
 - [WhizCV](https://whizcv.com) - Freemium CV and cover letter builder in 14 languages with PDF/DOCX export and interview prep.
 
 ### JavaScript/TypeScript
