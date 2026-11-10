@@ -49,7 +49,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume critic with ATS keyword gap detection, honest feedback, and recruiter scoring.
 - [ResumeAI](https://withresumeai.com/) - AI resume builder with an ATS checker (3 checks/day with no account).
-- [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with live preview, local drafts, and free PDF or editable Word exports without sign-up. *(Tags: free, web-based, PDF, DOCX.)*
+- [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with live preview, local drafts, and free PDF or editable Word exports without sign-up.
 - [ResumeOrbitz](https://resumeorbitz.com) - Resume builder with AI-generated content, ATS score checker, and 150+ templates.
 - [WhizCV](https://whizcv.com) - Freemium CV and cover letter builder in 14 languages with PDF/DOCX export and interview prep.
 
