@@ -2,6 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- If you haven't already, please star this repository before contributing.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Add new links in alphabetical order within the relevant category.
