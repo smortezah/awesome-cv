@@ -2,11 +2,11 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- If you haven't already, please star this repository before contributing.
+- If you haven't already, please star ⭐ this repository before contributing.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Add new links in alphabetical order within the relevant category.
-- Use the following format: `[Name](link) - One-sentence description. *(Tags: tag, tag, tag.)*`
+- Use the following format: `[Name](link) - One-sentence description.`
 - Keep descriptions factual, concise, and neutral.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
