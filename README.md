@@ -45,7 +45,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [JobEmerge](https://www.jobemerge.work) - AI resume builder with 19-language translation, ATS-ready document generation, and PDF/DOCX/PNG/Markdown export.
 - [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder with Typst templates and ATS-friendly export.
 - [Keel](https://github.com/KeelDev-tech/keel) - Open-core, self-hosted, job-application autopilot with honesty gates that refuse to invent qualifications.
-- [Prizm](https://heyprizm.com/en?utm_source=github-awesome-cv&utm_medium=annuaire&utm_campaign=annuaires-2026-11) - Freemium tool that tells you whether a job ad is worth applying to, then tailors your CV and cover letter to it from your real experience, with Word and PDF export.
+- [Prizm](https://heyprizm.com/en) - Freemium tool that tells you whether a job ad is worth applying to, then tailors your CV and cover letter to it from your real experience, with Word and PDF export.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Privacy-first resume builder with customizable layouts and PDF export.
 - [Resimay](https://resimay.ai) - AI resume builder and job tracker that tailors your resume to each job description.
 - [Resume Roaster](https://resume.roastlabai.com/) - AI resume critic with ATS keyword gap detection, honest feedback, and recruiter scoring.
