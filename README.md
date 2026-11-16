@@ -54,6 +54,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with live preview, local drafts, and free PDF or editable Word exports without sign-up.
 - [ResumeOrbitz](https://resumeorbitz.com) - Resume builder with AI-generated content, ATS score checker, and 150+ templates.
 - [SmartJobTools ATS Resume Checker](https://smartjobtools.blogspot.com/p/resume-analyzer.html) - Free resume checker that scores a PDF or DOCX resume out of 100 against a job description and lists keyword gaps and prioritized fixes.
+- [VedaCarrier Free ATS Checker](https://vedacarrier.com/en/tools/free-ats-checker) - Browser-based ATS resume checker that compares PDF/DOCX resumes against job descriptions for literal keyword matches and parsing issues without sign-up.
 - [WhizCV](https://whizcv.com) - Freemium CV and cover letter builder in 14 languages with PDF/DOCX export and interview prep.
 
 ### JavaScript/TypeScript
