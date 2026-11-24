@@ -81,6 +81,7 @@ I maintain [NeatCV](https://github.com/smortezah/neatcv). It is listed below in 
 ### Markdown
 
 - [nimo-markdown-cv](https://github.com/wodeni/nimo-markdown-cv) - Maintain your CV in Markdown and render it from source.
+- [ResumeMD Zero](https://github.com/devbox-zero-ops/resumemd-zero) - Zero-dependency browser Markdown resume builder with live split preview, four print themes, and clean PDF export.
 - [Resumx](https://github.com/resumx/resumx) - Markdown resume renderer with automatic page fitting and print-focused output.
 
 ### Typst
